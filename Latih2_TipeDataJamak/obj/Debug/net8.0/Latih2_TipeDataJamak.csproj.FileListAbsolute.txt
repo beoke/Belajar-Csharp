@@ -1,0 +1,14 @@
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\bin\Debug\net8.0\Latih2_TipeDataJamak.exe
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\bin\Debug\net8.0\Latih2_TipeDataJamak.deps.json
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\bin\Debug\net8.0\Latih2_TipeDataJamak.runtimeconfig.json
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\bin\Debug\net8.0\Latih2_TipeDataJamak.dll
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\bin\Debug\net8.0\Latih2_TipeDataJamak.pdb
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\obj\Debug\net8.0\Latih2_TipeDataJamak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\obj\Debug\net8.0\Latih2_TipeDataJamak.AssemblyInfoInputs.cache
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\obj\Debug\net8.0\Latih2_TipeDataJamak.AssemblyInfo.cs
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\obj\Debug\net8.0\Latih2_TipeDataJamak.csproj.CoreCompileInputs.cache
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\obj\Debug\net8.0\Latih2_TipeDataJamak.dll
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\obj\Debug\net8.0\refint\Latih2_TipeDataJamak.dll
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\obj\Debug\net8.0\Latih2_TipeDataJamak.pdb
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\obj\Debug\net8.0\Latih2_TipeDataJamak.genruntimeconfig.cache
+D:\Latihan\Latih2_TipeDataJamak\Latih2_TipeDataJamak\obj\Debug\net8.0\ref\Latih2_TipeDataJamak.dll

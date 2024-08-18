@@ -1,0 +1,10 @@
+D:\Latihan\Send_messageWa\Send_messageWa\bin\Debug\Send_messageWa.exe.config
+D:\Latihan\Send_messageWa\Send_messageWa\bin\Debug\Send_messageWa.exe
+D:\Latihan\Send_messageWa\Send_messageWa\bin\Debug\Send_messageWa.pdb
+D:\Latihan\Send_messageWa\Send_messageWa\obj\Debug\Send_messageWa.csproj.AssemblyReference.cache
+D:\Latihan\Send_messageWa\Send_messageWa\obj\Debug\Send_messageWa.Form1.resources
+D:\Latihan\Send_messageWa\Send_messageWa\obj\Debug\Send_messageWa.Properties.Resources.resources
+D:\Latihan\Send_messageWa\Send_messageWa\obj\Debug\Send_messageWa.csproj.GenerateResource.cache
+D:\Latihan\Send_messageWa\Send_messageWa\obj\Debug\Send_messageWa.csproj.CoreCompileInputs.cache
+D:\Latihan\Send_messageWa\Send_messageWa\obj\Debug\Send_messageWa.exe
+D:\Latihan\Send_messageWa\Send_messageWa\obj\Debug\Send_messageWa.pdb

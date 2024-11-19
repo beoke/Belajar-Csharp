@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latih12_MdiForm", "Latih12_MdiForm\Latih12_MdiForm.csproj", "{81E13531-5138-4013-B97E-47348901EDC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E13531-5138-4013-B97E-47348901EDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E13531-5138-4013-B97E-47348901EDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E13531-5138-4013-B97E-47348901EDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E13531-5138-4013-B97E-47348901EDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {743D2550-5BE4-4654-B5A0-A56D31498B18}
+	EndGlobalSection
+EndGlobal
